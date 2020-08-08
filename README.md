@@ -2,6 +2,8 @@
 
 Proffy website project using React for the Next Level Week #2 by Rocketseat. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this project, you need to install Node.js and Yarn. To choose which browser you would like to use hot reload linked to, use the `BROWSER` environment variable (the project is prepared to use an `.env` file if you want).
+
 ## Available Scripts
 
 In the project directory, you can run:
